@@ -1,0 +1,10 @@
+dev\abraham\product_service\model\Product$ProductBuilder.class
+dev\abraham\product_service\service\product\IProductService.class
+dev\abraham\product_service\service\product\ProductService.class
+dev\abraham\product_service\controller\ProductController.class
+dev\abraham\product_service\ProductServiceApplication.class
+dev\abraham\product_service\request\ProductRequest$ProductRequestBuilder.class
+dev\abraham\product_service\repository\ProductRepository.class
+dev\abraham\product_service\model\Product.class
+dev\abraham\product_service\response\APIResponse.class
+dev\abraham\product_service\request\ProductRequest.class
