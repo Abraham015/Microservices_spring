@@ -22,7 +22,7 @@ public class DataInitializer implements ApplicationListener<ApplicationReadyEven
     }
 
     private void createStock() {
-        for (int i = 0; i < 5; i++) {
+        /*for (int i = 0; i < 5; i++) {
             String sku="iphone_1"+i;
             if(inventoryService.getInventorybyskuCode(sku)==null){
                 Inventory inventory = new Inventory();
@@ -30,6 +30,6 @@ public class DataInitializer implements ApplicationListener<ApplicationReadyEven
                 inventory.setQuantity(100);
                 inventoryRepository.save(inventory);
             }
-        }
+        }*/
     }
 }
